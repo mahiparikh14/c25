@@ -1,2 +1,2 @@
-# c25
-sprites and angry bird images
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
